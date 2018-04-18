@@ -1,0 +1,20 @@
+﻿body {
+}
+
+div {
+    text-align: center;
+    background-color:aqua;
+}
+
+.gvCSS{
+    background-color:pink;
+}
+
+.gvCSS th{
+    background-color: firebrick;
+    color:white;
+}
+
+.gvCSSAlt{
+    background-color:red;
+}
