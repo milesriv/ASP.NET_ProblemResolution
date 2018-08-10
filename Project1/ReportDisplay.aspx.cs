@@ -80,8 +80,6 @@ namespace Project1
                 gvReport.DataSource = dsData.Tables[0];
                 gvReport.DataBind();
 
-                
-
                 dsData.Dispose();
             }
         }
